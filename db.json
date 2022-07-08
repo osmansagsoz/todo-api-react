@@ -34,7 +34,9 @@
       "id": 0,
       "title": "Meeting with supervisor",
       "completed": false,
-      "tagId": 0
+      "tagId": 0,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 1,
