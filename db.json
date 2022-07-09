@@ -23,10 +23,6 @@
     {
       "id": 5,
       "name": "activities"
-    },
-    {
-      "name": "music",
-      "id": 6
     }
   ],
   "todos": [
@@ -35,608 +31,808 @@
       "title": "Meeting with supervisor",
       "completed": false,
       "tagId": 0,
-      "priority": "Priority 3",
+      "priority": "Priority 1",
       "time": 1657294194133
     },
     {
       "id": 1,
       "title": "Meeting with project group",
       "completed": false,
-      "tagId": 0
+      "tagId": 0,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 2,
       "title": "Meeting with staff",
       "completed": false,
-      "tagId": 0
+      "tagId": 0,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 3,
       "title": "Meeting with mentor",
       "completed": false,
-      "tagId": 0
+      "tagId": 0,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 4,
       "title": "Meeting with a friend",
       "completed": false,
-      "tagId": 0
+      "tagId": 0,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 5,
       "title": "Study for exam",
       "completed": false,
-      "tagId": 1
+      "tagId": 1,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 6,
       "title": "Study for project",
       "completed": false,
-      "tagId": 1
+      "tagId": 1,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 7,
       "title": "Prepare a presentation",
       "completed": false,
-      "tagId": 1
+      "tagId": 1,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 8,
       "title": "Prepare an exam",
       "completed": false,
-      "tagId": 1
+      "tagId": 1,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 85,
       "title": "Check e-mails",
       "completed": false,
-      "tagId": 1
+      "tagId": 1,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 86,
       "title": "Write an e-mail",
       "completed": false,
-      "tagId": 1
+      "tagId": 1,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 95,
       "title": "Networking on discord",
       "completed": false,
-      "tagId": 1
+      "tagId": 1,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 96,
       "title": "Networking on twitter",
       "completed": false,
-      "tagId": 1
+      "tagId": 1,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 97,
       "title": "Continue project",
       "completed": false,
-      "tagId": 1
+      "tagId": 1,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 98,
       "title": "Send changes to github",
       "completed": false,
-      "tagId": 1
+      "tagId": 1,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 99,
       "title": "Start new project",
       "completed": false,
-      "tagId": 1
+      "tagId": 1,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 100,
       "title": "Literature review",
       "completed": false,
-      "tagId": 1
+      "tagId": 1,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 27,
       "title": "Buy milk",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 28,
       "title": "Buy bread",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 29,
       "title": "Buy eggs",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 30,
       "title": "Buy sparkling water",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 31,
       "title": "Buy coke",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 32,
       "title": "Buy yoghurt",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 33,
       "title": "Buy fruits",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 34,
       "title": "Buy apples",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 35,
       "title": "Buy bananas",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 36,
       "title": "Buy strawberries",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 37,
       "title": "Buy cantalope",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 38,
       "title": "Buy watermelon",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 39,
       "title": "Buy pineapples",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 40,
       "title": "Buy vegetables",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 41,
       "title": "Buy tomatoes",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 42,
       "title": "Buy carrots",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 43,
       "title": "Buy potatoes",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 44,
       "title": "Buy eggplants",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 45,
       "title": "Buy zucchini",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 46,
       "title": "Buy green pepper",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 47,
       "title": "Buy red pepper",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 48,
       "title": "Buy bell pepper",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 49,
       "title": "Buy onions",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 50,
       "title": "Buy garlic",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 51,
       "title": "Buy cheese",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 52,
       "title": "Buy red wine",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 53,
       "title": "Buy white wine",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 54,
       "title": "Buy beer",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 55,
       "title": "Buy scotch",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 56,
       "title": "Buy tequila",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 57,
       "title": "Buy gin",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 58,
       "title": "Buy soap",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 59,
       "title": "Buy detergent",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 60,
       "title": "Buy fabric softener",
       "completed": false,
-      "tagId": 2
+      "tagId": 2,
+      "priority": "Priority 3",
+      "time": 1657294194133
     },
     {
       "id": 9,
       "title": "Pay the water bill",
       "completed": false,
-      "tagId": 3
+      "tagId": 3,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 10,
       "title": "Pay the electric bill",
       "completed": false,
-      "tagId": 3
+      "tagId": 3,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 11,
       "title": "Pay the internet bill",
       "completed": false,
-      "tagId": 3
+      "tagId": 3,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 12,
       "title": "Pay the phone bill",
       "completed": false,
-      "tagId": 3
+      "tagId": 3,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 81,
       "title": "Doctors appointment",
       "completed": false,
-      "tagId": 3
+      "tagId": 3,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 82,
       "title": "Dentist appointment",
       "completed": false,
-      "tagId": 3
+      "tagId": 3,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 83,
       "title": "Yearly check-up",
       "completed": false,
-      "tagId": 3
+      "tagId": 3,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 84,
       "title": "Therapy",
       "completed": false,
-      "tagId": 3
+      "tagId": 3,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 87,
       "title": "Pay taxes for home",
       "completed": false,
-      "tagId": 3
+      "tagId": 3,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 88,
       "title": "Pay taxes for car",
       "completed": false,
-      "tagId": 3
+      "tagId": 3,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 89,
       "title": "Call mother",
       "completed": false,
-      "tagId": 3
+      "tagId": 3,
+      "priority": "Priority 2",
+      "time": 1657294194133
     },
     {
       "id": 90,
       "title": "Call father",
       "completed": false,
-      "tagId": 3
+      "tagId": 3,
+      "priority": "Priority 2",
+      "time": 1657294194133
     },
     {
       "id": 91,
       "title": "Call sister",
       "completed": false,
-      "tagId": 3
+      "tagId": 3,
+      "priority": "Priority 2",
+      "time": 1657294194133
     },
     {
       "id": 92,
       "title": "Call brother",
       "completed": false,
-      "tagId": 3
+      "tagId": 3,
+      "priority": "Priority 2",
+      "time": 1657294194133
     },
     {
       "id": 93,
       "title": "Call best friend",
       "completed": false,
-      "tagId": 3
+      "tagId": 3,
+      "priority": "Priority 2",
+      "time": 1657294194133
     },
     {
       "id": 94,
       "title": "Call grandparents",
       "completed": false,
-      "tagId": 3
+      "tagId": 3,
+      "priority": "Priority 2",
+      "time": 1657294194133
     },
     {
       "id": 13,
       "title": "Cook lunch",
       "completed": false,
-      "tagId": 4
+      "tagId": 4,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 14,
       "title": "Cook dinner",
       "completed": false,
-      "tagId": 4
+      "tagId": 4,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 15,
       "title": "Cook for guests",
       "completed": false,
-      "tagId": 4
+      "tagId": 4,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 16,
       "title": "Clean room",
       "completed": false,
-      "tagId": 4
+      "tagId": 4,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 17,
       "title": "Clean kitchen",
       "completed": false,
-      "tagId": 4
+      "tagId": 4,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 18,
       "title": "Clean bathroom",
       "completed": false,
-      "tagId": 4
+      "tagId": 4,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 19,
       "title": "Clean living room",
       "completed": false,
-      "tagId": 4
+      "tagId": 4,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 20,
       "title": "Clean house",
       "completed": false,
-      "tagId": 4
+      "tagId": 4,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 21,
       "title": "Shop for groceries",
       "completed": false,
-      "tagId": 4
+      "tagId": 4,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 22,
       "title": "Shop for dinner",
       "completed": false,
-      "tagId": 4
+      "tagId": 4,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 23,
       "title": "Shop for lunch",
       "completed": false,
-      "tagId": 4
+      "tagId": 4,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 24,
       "title": "Shop for dessert",
       "completed": false,
-      "tagId": 4
+      "tagId": 4,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 25,
       "title": "Shop for clothes",
       "completed": false,
-      "tagId": 4
+      "tagId": 4,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 26,
       "title": "Shop for cleaning supplies",
       "completed": false,
-      "tagId": 4
+      "tagId": 4,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 61,
       "title": "Watch favorite show",
       "completed": false,
-      "tagId": 5
+      "tagId": 5,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 62,
       "title": "Reading time",
       "completed": false,
-      "tagId": 5
+      "tagId": 5,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 63,
       "title": "Pokemon Unite hour",
       "completed": false,
-      "tagId": 5
+      "tagId": 5,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 64,
       "title": "Nightly beauty routine",
       "completed": false,
-      "tagId": 5
+      "tagId": 5,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 65,
       "title": "Exfoliate",
       "completed": false,
-      "tagId": 5
+      "tagId": 5,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 66,
       "title": "Skin care",
       "completed": false,
-      "tagId": 5
+      "tagId": 5,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 67,
       "title": "Go running",
       "completed": false,
-      "tagId": 5
+      "tagId": 5,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 68,
       "title": "Go walking",
       "completed": false,
-      "tagId": 5
+      "tagId": 5,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 69,
       "title": "Go hiking",
       "completed": false,
-      "tagId": 5
+      "tagId": 5,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 70,
       "title": "Go cycling",
       "completed": false,
-      "tagId": 5
+      "tagId": 5,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 71,
       "title": "Go to gym",
       "completed": false,
-      "tagId": 5
+      "tagId": 5,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 72,
       "title": "Go to zumba class",
       "completed": false,
-      "tagId": 5
+      "tagId": 5,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 73,
       "title": "Go to yoga",
       "completed": false,
-      "tagId": 5
+      "tagId": 5,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 74,
       "title": "Go to pilates",
       "completed": false,
-      "tagId": 5
+      "tagId": 5,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 75,
       "title": "Exercise at home",
       "completed": false,
-      "tagId": 5
+      "tagId": 5,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 76,
       "title": "Soccer game with friends",
       "completed": false,
-      "tagId": 5
+      "tagId": 5,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 77,
       "title": "Tennis game",
       "completed": false,
-      "tagId": 5
+      "tagId": 5,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 78,
       "title": "Basketball game",
       "completed": false,
-      "tagId": 5
+      "tagId": 5,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 79,
       "title": "Hairdresser appointment",
       "completed": false,
-      "tagId": 5
+      "tagId": 5,
+      "priority": "Priority 1",
+      "time": 1657294194133
     },
     {
       "id": 80,
       "title": "Manicure",
       "completed": false,
-      "tagId": 5
+      "tagId": 5,
+      "priority": "Priority 1",
+      "time": 1657294194133
     }
   ]
 }
